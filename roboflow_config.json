@@ -1,0 +1,13 @@
+{
+    "__comment1": "Obtain these values via Roboflow",
+    "ROBOFLOW_API_KEY": "NMzClgA250KPAVqtPA1I",
+    "ROBOFLOW_MODEL": "SECURISENSE",
+    "ROBOFLOW_VERSION_NUMBER": "#",
+    "ROBOFLOW_SIZE": "640",
+    "LOCAL_SERVER": false,
+    "EMAIL": "your@email.com",
+
+    "__comment2": "The following are only needed for infer-async.py",
+    "FRAMERATE": 24,
+    "BUFFER": 0.5
+}
